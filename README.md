@@ -10,4 +10,4 @@ The bottom chart shows the average intensity of the pixels in the scene. Fade-in
 
 The red ticks indicate where the algorithms believe the shots start and stop. 
 
-![screenshot](https://user-images.githubusercontent.com/22899644/82269525-9fb65880-9937-11ea-8aac-570fc721c8e3.png)
+![screenshot](ShotTransitions/Images/sc1.png?raw=true "Optional Title")
